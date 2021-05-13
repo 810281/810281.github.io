@@ -3,7 +3,6 @@
 
 html,body
 {
-    height:100%;
     background-image: url("/image/blackboard.jpg");
     background-size: cover;
 }
@@ -14,7 +13,8 @@ html,body
 header
 {
     height: 25%;
-    margin: 0 auto;
+    width: auto;
+    margin: 5% auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -24,11 +24,20 @@ header
 }
 main
 {
-    height: 75%;
+    height: 50%;
     width: 75%;
     margin: 0 auto;
-    text-align: center;
     font-family: 'Noto Serif TC', serif;
     color: #fff;
-    font-size: 100%;
+    font-size: 150%;
+}
+footer
+{
+    height: 25%;
+    width: auto;
+    margin: 0 auto;
+    text-align: right;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 250%;
+    color: #fff;
 }
