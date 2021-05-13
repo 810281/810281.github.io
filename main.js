@@ -1,6 +1,6 @@
 var signUpBtn = document.querySelector('.signUp');
 var logInBtn = document.querySelector('.logIn');
-// var msg = document.getElementById('message');
+var msg = document.getElementById('message');
 
 
 //註冊
