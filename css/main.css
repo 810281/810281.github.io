@@ -29,14 +29,14 @@ main
     margin: 0 auto;
     font-family: 'Noto Serif TC', serif;
     color: #fff;
-    font-size: 150%;
+    font-size: 200%;
 }
 footer
 {
     height: 25%;
     width: auto;
     margin: 0 auto;
-    text-align: right;
+    text-align: center;
     font-family: 'Noto Sans TC', sans-serif;
     font-size: 250%;
     color: #fff;
